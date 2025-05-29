@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Advanced Card 1",
+    "subtitle": "Card subtitle 1",
+    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
+    "description": "Otra descripción diferente para la segunda card, con texto de ejemplo para mostrar cómo funciona."
+  },
+  {
+    "id": 2,
+    "title": "Advanced Card 2",
+    "subtitle": "Card subtitle 2",
+    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
+    "description": "Otra descripción diferente para la segunda card, con texto de ejemplo para mostrar cómo funciona."
+  },
+  {
+    "id": 3,
+    "title": "Advanced Card 3",
+    "subtitle": "Card subtitle 3",
+    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
+    "description": "Texto de descripción para la tercera tarjeta, mostrando contenido dinámico desde un JSON."
+  },
+  {
+    "id": 4,
+    "title": "Advanced Card 4",
+    "subtitle": "Card subtitle 4",
+    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
+    "description": "Última card con texto de ejemplo para completar la muestra dinámica."
+  }
+]
