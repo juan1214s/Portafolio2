@@ -1,9 +1,8 @@
-<div id="experience"  class="dark:bg-black bg-white flex items-center flex-col justify-center px-8 py-15 w-full">
+<div data-aos="fade-up" data-aos-delay="200" data-aos-duration="1000" data-aos-easing="ease-in-out"
+  data-aos-offset="120" data-aos-once="true" id="experience"
+  class="dark:bg-black bg-white flex items-center flex-col justify-center px-8 py-15 w-full">
   <div class="flex justify-center py-5">
     <h1 class="text-3xl md:text-4xl font-bold dark:text-white">Experiencia Laboral</h1>
   </div>
-  <app-card-experience
-  *ngFor="let experience of experience"
-  [experience]="experience"
-  ></app-card-experience>
+  <app-card-experience *ngFor="let experience of experience" [experience]="experience"></app-card-experience>
 </div>
