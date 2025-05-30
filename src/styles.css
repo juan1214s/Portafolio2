@@ -7,3 +7,8 @@ html, body {
   padding: 0;
   background-color: white; /* o el color de fondo que estés usando */
 }
+
+html {
+  scroll-behavior: smooth;
+}
+

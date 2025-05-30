@@ -1,30 +1,51 @@
 [
   {
     "id": 1,
-    "title": "Advanced Card 1",
-    "subtitle": "Card subtitle 1",
-    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
-    "description": "Otra descripción diferente para la segunda card, con texto de ejemplo para mostrar cómo funciona."
+    "title": "HYLLS MUSIC",
+    "subtitle": "Backend",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+    "description": "Plataforma musical desarrollada con TypeScript, Node.js, TypeORM y MySQL, orientada a la gestión, distribución y promoción de artistas. Implementé autenticación JWT, relaciones complejas entre entidades (artistas, álbumes, playlists), subida de imágenes y videos, y control de contenido mediante APIs. Diseñada para facilitar la visibilidad de nuevos talentos musicales en un entorno seguro y escalable.",
+    "link": "https://github.com/juan1214s/back-hylls"
   },
   {
     "id": 2,
-    "title": "Advanced Card 2",
-    "subtitle": "Card subtitle 2",
-    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
-    "description": "Otra descripción diferente para la segunda card, con texto de ejemplo para mostrar cómo funciona."
+    "title": "Mecanica Domicilio",
+    "subtitle": "Backend",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+    "description": "API backend desarrollada con NestJS, TypeScript y MySQL para una plataforma de servicios mecánicos. Implementa autenticación segura con JWT, encriptación de contraseñas con bcrypt y envío de correos automáticos mediante Nodemailer. Diseñada para facilitar la administración de clientes, vehículos, servicios y desvare a domicilio, garantizando una integración eficiente con el frontend.",
+    "link": "https://github.com/juan1214s/Mecanica-backend"
   },
   {
     "id": 3,
-    "title": "Advanced Card 3",
-    "subtitle": "Card subtitle 3",
-    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
-    "description": "Texto de descripción para la tercera tarjeta, mostrando contenido dinámico desde un JSON."
+    "title": "Api Ecommerce",
+    "subtitle": "Backend",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+    "description": "Backend en desarrollo para una tienda online, construido con Node.js, Express, MySQL y Multer para la gestión de productos e imágenes. Integra autenticación JWT, control de acceso por roles y pagos seguros mediante la API de Stripe. Permite registrar productos con múltiples imágenes, gestionar inventario y procesar pagos, sentando las bases para un sistema de ventas completo, escalable y seguro.",
+    "link": "https://github.com/juan1214s/JMS-tienda"
+    
   },
   {
     "id": 4,
-    "title": "Advanced Card 4",
-    "subtitle": "Card subtitle 4",
-    "image": "https://primefaces.org/cdn/primeng/images/card-ng.jpg",
-    "description": "Última card con texto de ejemplo para completar la muestra dinámica."
+    "title": "Oprocess",
+    "subtitle": "Landing page",
+    "image": "oprocess.png",
+    "description": "Landing page desarrollada con React para una empresa de soluciones en inteligencia artificial. Diseñada con enfoque en experiencia de usuario y conversión, presenta los servicios de la empresa de forma clara, moderna y responsive. Incluye secciones informativas, llamados a la acción y diseño visual alineado con la identidad corporativa para potenciar la presencia digital de la marca.",
+    "link": "https://oprosses.netlify.app/"
+  },
+   {
+    "id": 5,
+    "title": "contactos",
+    "subtitle": "Backend",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+    "description": "API REST desarrollada con NestJS, TypeScript, TypeORM y MySQL para gestionar una agenda de contactos de forma segura. Incluye autenticación con JWT, cifrado de contraseñas con bcrypt, y notificaciones por correo integradas mediante Nodemailer. Diseñada con una arquitectura limpia y escalable, garantizando eficiencia, modularidad y protección de datos personales.",
+    "link": "https://github.com/juan1214s/contactos-back"
+  },
+     {
+    "id": 5,
+    "title": "contactos",
+    "subtitle": "Frontend",
+    "image": "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg",
+    "description": "Aplicación web creada con TypeScript que permite registrar, editar y eliminar contactos mediante una interfaz intuitiva y responsive. Incluye rutas protegidas, alertas visuales con SweetAlert y comunicación segura con el backend. Orientada a ofrecer una experiencia fluida y organizada para el manejo personal de contactos.",
+    "link": "https://github.com/juan1214s/contactos-front/tree/main/contactos-front"
   }
 ]
