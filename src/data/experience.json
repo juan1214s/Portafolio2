@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "title": "Mantglo SAS",
-    "subTitle": "Desarrollador Backend",
-    "date": "10/05/2023 - 04/07/2024",
-    "description": "Desarrollador Backend con experiencia en la mejora de sistemas empresariales. Encargado del mantenimiento, optimización y desarrollo de nuevas funcionalidades para páginas web corporativas. Lideré mejoras clave en la gestión de arrendamiento de vehículos mediante la automatización de procesos internos. Implementé interfaces eficientes con ReactJS en el frontend y desarrollé servicios robustos en el backend utilizando Node.js y C#, logrando una integración fluida entre sistemas. Además, gestioné campañas en Google Ads, aumentando la visibilidad de la empresa y mejorando las tasas de conversión."
-  },
-  {
-    "id": 2,
     "title": "Marketing Digital",
     "subTitle": "Mecanicos a Domicilio Medellín",
     "date": "28/06/2024 - 15/02/2025",
     "description": "Soy especialista en marketing digital con experiencia en la gestión y optimización de campañas publicitarias en Google Ads, enfocadas en el sector de servicios automotrices, específicamente mecánicos a domicilio en Medellín. Me encargo de crear estrategias efectivas que maximicen la visibilidad online y aumenten la captación de clientes, utilizando segmentación geográfica, palabras clave relevantes y optimización continua para obtener el mejor retorno de inversión. Mi objetivo es conectar a los mecánicos con sus clientes potenciales de forma rápida y eficiente, mejorando su presencia digital y generando más solicitudes de servicio."
+  },
+  {
+    "id": 2,
+    "title": "Mantglo SAS",
+    "subTitle": "Desarrollador Backend",
+    "date": "10/05/2023 - 04/07/2024",
+    "description": "Desarrollador Backend con experiencia en la mejora de sistemas empresariales. Encargado del mantenimiento, optimización y desarrollo de nuevas funcionalidades para páginas web corporativas. Lideré mejoras clave en la gestión de arrendamiento de vehículos mediante la automatización de procesos internos. Implementé interfaces eficientes con ReactJS en el frontend y desarrollé servicios robustos en el backend utilizando Node.js y C#, logrando una integración fluida entre sistemas. Además, gestioné campañas en Google Ads, aumentando la visibilidad de la empresa y mejorando las tasas de conversión."
   }
 ]
